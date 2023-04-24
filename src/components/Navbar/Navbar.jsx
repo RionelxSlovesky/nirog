@@ -9,7 +9,7 @@ const PNavbar = () => {
         <div>
             <Navbar bg="light" variant="primary">
                 <Container>
-                    <Navbar.Brand as={Link} to='/'>NirogAi</Navbar.Brand>
+                    <Navbar.Brand as={Link} to='/'>Nirog.AI</Navbar.Brand>
                     <Nav className="me-auto">
                         
                         <Nav.Link as={Link} to='/about'>About</Nav.Link>
